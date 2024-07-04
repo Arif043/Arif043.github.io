@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  Arif043
 
 # Build settings
-remote_theme: pages-themes/slate
+remote_theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
